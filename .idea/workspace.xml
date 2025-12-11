@@ -4,14 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3847b2e0-fa35-4474-b6d0-0ecc5752edf2" name="Changes" comment="" />
+    <list default="true" id="3847b2e0-fa35-4474-b6d0-0ecc5752edf2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaclient/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaclient/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaclient/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaclient/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaclient/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/MediaclientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaclient/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaclient/src/test/java/com/smarthome/mediaclient/MediaclientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaserver/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaserver/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaserver/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaserver/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaserver/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaserver/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaserver/src/main/java/com/smarthome/mediaserver/MediaserverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaserver/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediaserver/src/test/java/com/smarthome/mediaserver/MediaserverApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mediaserver" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -26,14 +66,44 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.mediaappgrpc [install].executor": "Run",
+    "Maven.proto [package].executor": "Run",
+    "Maven.proto [validate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MediaclientApplication.executor": "Run",
+    "Spring Boot.MediaserverApplication.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/ADMIN/IAGI/S9/Architec/mediaappgrpc/src/main/java/com/smarthome/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Spring Boot.MediaserverApplication">
+    <configuration name="MediaclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mediaclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smarthome.mediaclient.MediaclientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mediaserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smarthome.mediaserver.MediaserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765433325580</updated>
-      <workItem from="1765433326435" duration="24000" />
+      <workItem from="1765433326435" duration="14459000" />
     </task>
     <servers />
   </component>

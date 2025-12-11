@@ -13,5 +13,16 @@
         <maven.compiler.target>23</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    
+    <!-- Très important : le parent est un POM "agrégateur" -->
+    <packaging>pom</packaging>
+
+    <modules>
+        <!-- On ajoutera les modules ici -->
+        <module>proto</module>
+        <module>mediaserver</module>
+        <module>mediaclient</module>
+
+    </modules>
+
+
 </project>
