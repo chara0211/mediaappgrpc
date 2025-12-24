@@ -20,8 +20,11 @@ public class CreatorController {
     // GET /api/creators/{id}
     @GetMapping("/{id}")
     public CreatorDto getCreator(@PathVariable String id) {
-        return creatorServiceClient.getCreatorById(id);
+        CreatorDto creator = creatorServiceClient.getCreatorById(id);
+        creator.setVideos(creatorServiceClient.getCreatorVideos(id));
+        return creator;
     }
+
 
     // GET /api/creators/{id}/videos
     @GetMapping("/{id}/videos")

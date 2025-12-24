@@ -5,35 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3847b2e0-fa35-4474-b6d0-0ecc5752edf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaclient/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaclient/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaclient/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaclient/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaclient/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaclient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/MediaclientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaclient/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaclient/src/test/java/com/smarthome/mediaclient/MediaclientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaserver/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaserver/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaserver/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaserver/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaserver/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaserver/src/main/java/com/smarthome/mediaserver/MediaserverApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaserver/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaserver/src/test/java/com/smarthome/mediaserver/MediaserverApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proto/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proto/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proto/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proto/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proto/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/web/CreatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/web/CreatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proto/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proto/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +24,26 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mediaserver" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chara0211&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chara0211/mediaappgrpc.git&quot;,
+    &quot;accountId&quot;: &quot;6877b7ba-d0cb-4198-bcec-ee1ffb85e933&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="36gfq9fW9JSIOYvZ0KjkwsjOh2k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -64,31 +52,32 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.mediaappgrpc [install].executor": "Run",
-    "Maven.proto [package].executor": "Run",
-    "Maven.proto [validate].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.MediaclientApplication.executor": "Run",
-    "Spring Boot.MediaserverApplication.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/ADMIN/IAGI/S9/Architec/mediaappgrpc/src/main/java/com/smarthome/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.mediaappgrpc [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.proto [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.proto [validate].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MediaclientApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MediaserverApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ADMIN/IAGI/S9/Architec/mediaappgrpc/src/main/java/com/smarthome/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Spring Boot.MediaserverApplication">
+}</component>
+  <component name="RunManager" selected="Spring Boot.MediaclientApplication">
     <configuration name="MediaclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="mediaclient" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.smarthome.mediaclient.MediaclientApplication" />
@@ -120,12 +109,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765433325580</updated>
-      <workItem from="1765433326435" duration="14459000" />
+      <workItem from="1765433326435" duration="17066000" />
+      <workItem from="1766606843249" duration="6434000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mediaclient" />
+      <path value="$PROJECT_DIR$/mediaserver" />
+      <path value="$PROJECT_DIR$/proto" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
