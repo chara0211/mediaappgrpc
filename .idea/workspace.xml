@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3847b2e0-fa35-4474-b6d0-0ecc5752edf2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/web/CreatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/web/CreatorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proto/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proto/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mediaclient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mediaclient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/mapper/CreatorMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/mapper/CreatorMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/mapper/VideoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mediaclient/src/main/java/com/smarthome/mediaclient/mapper/VideoMapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Spring Boot.MediaclientApplication">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\IAGI\S9\Architec\mediaappgrpc\mediaclient\src\main\java\com\smarthome\mediaclient" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MediaserverApplication">
     <configuration name="MediaclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="mediaclient" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.smarthome.mediaclient.MediaclientApplication" />
@@ -110,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1765433325580</updated>
       <workItem from="1765433326435" duration="17066000" />
-      <workItem from="1766606843249" duration="6434000" />
+      <workItem from="1766606843249" duration="8471000" />
     </task>
     <servers />
   </component>
